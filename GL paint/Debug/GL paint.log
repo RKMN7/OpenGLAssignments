@@ -1,0 +1,37 @@
+﻿  Main.cpp
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(24): warning C4244: 'initializing': conversion from 'GLuint' to 'float', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(25): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(124): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(125): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(127): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(128): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(136): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(137): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(142): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(143): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(148): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(149): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(176): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(177): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(252): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(253): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(257): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(258): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(262): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(263): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(267): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(268): warning C4244: 'argument': conversion from 'double' to 'const float', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(280): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(281): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(285): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(286): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(290): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(291): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(45): warning C4018: '<': signed/unsigned mismatch
+  c:\users\aaku__000\documents\visual studio 2015\projects\gl paint\main.cpp(306): note: see reference to function template instantiation 'void find_closest<int>(std::vector<int,std::allocator<_Ty>> &)' being compiled
+          with
+          [
+              _Ty=int
+          ]
+  GL paint.vcxproj -> C:\Users\aaku__000\Documents\Visual Studio 2015\Projects\GL paint\Debug\GL paint.exe
+  GL paint.vcxproj -> C:\Users\aaku__000\Documents\Visual Studio 2015\Projects\GL paint\Debug\GL paint.pdb (Partial PDB)
